@@ -1,0 +1,11 @@
+{
+  "defibank_backend": {
+    "ic": "fg2zs-cqaaa-aaaag-qcz5q-cai"
+  },
+  "defibank_frontend": {
+    "ic": "ft5i7-dyaaa-aaaag-qcz6a-cai"
+  },
+  "rust_simplifire": {
+    "ic": "xpofm-6iaaa-aaaag-qcoia-cai"
+  }
+}
